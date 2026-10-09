@@ -1,2 +1,2 @@
 # tecnicool
-Script de instalação técnica de aplicativos
+Automação de instalação de Aplicativos
