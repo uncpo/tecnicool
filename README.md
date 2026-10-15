@@ -1,2 +1,2 @@
-# tecnicool
-Automação de instalação de Aplicativos
+# TecniCool
+Automação de Procedimentos Técnicooools
